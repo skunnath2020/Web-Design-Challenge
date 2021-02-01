@@ -10,8 +10,9 @@
     color:#ffff;
 }  */
 a.navbar-brand{
-    margin-left: 115px;
-    padding: 10px;
+    margin-left: 85px;
+    padding-left: 10px; 
+    padding-right: 10px;
     background-color: rgb(19, 177, 150);
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
@@ -47,9 +48,7 @@ h3{
      color: #fff;
      cursor: pointer;
  }
-/* .nav-link {
-     margin-right: 1em !important;
- } */
+
 .nav-link:hover {
      color: #000;
  }
@@ -58,7 +57,7 @@ h3{
  }
 
 .col-md-12{
-    padding-top: 10%; 
+    padding-top: 8%; 
     padding-bottom: 5%;
     background-color: #ffff;
     height : 95%;
@@ -69,7 +68,7 @@ h3{
     padding-top:60px;
     padding-left:60px;
  }
-.row.borders{
+/* .row.borders{
     display: inline-flex;
     width: 100%;
-}
+} */

@@ -12,7 +12,7 @@
 a.navbar-brand{
     margin-left: 10px;
     padding: 10px;
-    background-color: rgb(36, 172, 149);
+    background-color: rgb(19, 177, 150);
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color:#ffff;
@@ -36,8 +36,9 @@ p{
  }
 h3{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
-    color rgb(36, 172, 149)
+    font-size: 25px;
+    color: rgb(36, 172, 149)
+    font-weight: bold;
 }
 
 .nav-link,
@@ -45,24 +46,27 @@ h3{
      color: #fff;
      cursor: pointer;
  }
-.nav-link {
+/* .nav-link {
      margin-right: 1em !important;
- }
+ } */
 .nav-link:hover {
      color: #000;
  }
 .navbar-collapse {
-     justify-content: flex-end;
+     justify-content: flex-end;  
  }
 
 .col-md-12{
-    /* padding: 20px; */
+    padding-top: 10%; 
+    padding-bottom: 5%;
     background-color: #ffff;
     height : 95%;
  }
 .container {
-    /* padding: 20px; */
+    padding: 40px; 
     background-color: rgb(221, 215, 215);
+    padding-top:60px;
+    padding-left:60px;
  }
 .row.borders{
     display: inline-flex;

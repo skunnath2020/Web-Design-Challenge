@@ -10,12 +10,13 @@
     color:#ffff;
 }  */
 a.navbar-brand{
-    margin-left: 10px;
+    margin-left: 115px;
     padding: 10px;
     background-color: rgb(19, 177, 150);
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color:#ffff;
+    
 }
 
 .navbar{

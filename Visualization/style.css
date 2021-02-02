@@ -9,7 +9,7 @@ a.navbar-brand{
     margin-left: 0px;
     padding-left: 10px;  
     padding-right: 10px;
-    background-color: rgb(19, 177, 150);
+    background-color: rgb(194, 11, 169);
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color: #ffffff !important;
@@ -33,8 +33,8 @@ p{
  }
 h3{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
-    color: rgb(19, 177, 150) !important;
+    font-size: 30px;
+    color: rgb(194, 11, 169) !important;
     font-weight: bold;
 }
 

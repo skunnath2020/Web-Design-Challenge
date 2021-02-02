@@ -9,9 +9,15 @@
     margin-bottom: 0;
     color:#ffff;
 }  */
+#sidebar {
+    float:left;
+    width:260px;
+    height:1400px;
+    background:white;
+}
 a.navbar-brand{
-    margin-left: 85px;
-    padding-left: 10px; 
+    /* margin-left: 85px;*/
+    padding-left: 10px;  
     padding-right: 10px;
     background-color: rgb(19, 177, 150);
     font-family: 'Times New Roman', Times, serif;
@@ -62,15 +68,12 @@ h3{
     background-color:white;
     height : 95%;
  }
-.container-fluid {
+.container {
     padding: 40px; 
     padding-top:60px;
     padding-left:60px;
     background-color: rgb(222, 217, 228);
     max-width: 1350px;
-    max-height: 1200;
+    height: 100%;
+    margin-left: auto;
  }
-/* .row.borders{
-    display: inline-flex;
-    width: 100%;
-} */

@@ -1,4 +1,4 @@
- /* .mainbutton {
+  /* .mainbutton {
     background-color:rgb(81, 175, 160);
     font-size: 25px;
     text-align: end;
@@ -23,7 +23,7 @@ a.navbar-brand{
 .navbar{
     padding-top:0px;
     padding-bottom: 0px;
-    padding-right:40px;
+    padding-right:20% ;
 }
 .nav {
     margin-bottom: 0px;
@@ -32,12 +32,12 @@ body{
     background-color: #ffff;
 }
 p{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: large;
     padding:10px;
  }
 h3{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color: rgb(19, 177, 150) !important;
     font-weight: bold;
@@ -45,7 +45,7 @@ h3{
 
 .nav-link,
 .navbar-brand {
-     color: #fff;
+     color:white;
      cursor: pointer;
  }
 
@@ -59,14 +59,16 @@ h3{
 .col-md-12{
     padding-top: 8%; 
     padding-bottom: 5%;
-    background-color: #ffff;
+    background-color:white;
     height : 95%;
  }
-.container {
+.container-fluid {
     padding: 40px; 
-    background-color: rgb(221, 215, 215);
     padding-top:60px;
     padding-left:60px;
+    background-color: rgb(222, 217, 228);
+    max-width: 1350px;
+    max-height: 1200;
  }
 /* .row.borders{
     display: inline-flex;

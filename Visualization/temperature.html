@@ -8,9 +8,9 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div id="sidebar"></div> 
+  <div class="sidebar"></div> 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Latitude </a>
+    <a class="navbar-brand" href="index.html">Latitude </a>
      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
      </button> 
@@ -26,10 +26,10 @@
             Plots
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Temperature</a>
-            <a class="dropdown-item" href="#">Windspeed</a>
-            <a class="dropdown-item" href="#">Humidity</a>
-            <a class="dropdown-item" href="#">Cloudiness</a>
+            <a class="dropdown-item" href="temperature.html">Temperature</a>
+            <a class="dropdown-item" href="winds.html">Windspeed</a>
+            <a class="dropdown-item" href="humidity.html">Humidity</a>
+            <a class="dropdown-item" href="clouds.html">Cloudiness</a>
           </div>
         </li>
         <li class="nav-item">
@@ -42,16 +42,16 @@
     </div>
     </nav>
   
-    <div class="container">
+    <div class="container-fluid">
      <div class="class summary">
        <!-- <div class="container content">     -->
         <div class="row">
             <div class="col-md-8">
                 <div class="col-md-12">
-                    <h3>Latitude vs. TemperatureX </h3>
+                    <h3>Latitude vs. Temperature </h3>
                     <hr>
                     <div class="thumbnail">
-                        <img class="img-thumbnail float-left rounded" src="../Resources/assets/images/Fig1.png " width="65%" alt="temperature">
+                        <img class="img-thumbnail float-left rounded" src="../Resources/assets/images/Fig1.png " width="70%" alt="Latitude vs Temperature">
                     </div>
                     <p>As expected, the weather becomes significantly warmer as one approaches the equator (0 Degrees Latitude). More interestingly, however, is the fact that the southern hemisphere tend to be warmer this time of the year than the northern hemisphere. This may be due to the tilt of the earth at the time of the year this data was gathered.</p>
                 </div>
@@ -61,14 +61,15 @@
                     <h3>Visualization </h3>
                     <hr>
                     <div class="thumbnail">
-                        <img class="img-thumbnail float-left" src="../Resources/assets/images/Fig1.png " width="50%" alt="temperature">
+                      <!-- <a href="temperature.html" class="img-thumbnail float-left"><img src="../Resources/assets/images/Fig1.png " width="50%" alt="Humidity vs Temperature"> </a>  -->
+                        <img class="img-thumbnail float-left" src="../Resources/assets/images/Fig1.png" width="50%" alt="Latitude  vs Temperature" ><a href="temperature.html"></a> 
                     </div>
                     <div class="thumbnail">
-                        <img class="img-thumbnail float-left" src="../Resources/assets/images/Fig2.png " width="50%" alt="temperature"> 
+                        <img class="img-thumbnail float-left" src="../Resources/assets/images/Fig2.png " width="50%" alt="Humidity vs Temperature" ><a href="index.html"></a> 
                     </div> 
                     <br>
                     <div class="thumbnail">
-                        <img class="img-thumbnail float-left" src="../Resources/assets/images/Fig3.png " width="50%" alt="temperature">
+                        <img class="img-thumbnail float-left" src="../Resources/assets/images/Fig3.png " width="50%" alt="Cloudiness ">
                     </div>
                     <div class="thumbnail">
                         <img class="img-thumbnail float-left" src="../Resources/assets/images/Fig4.png " width="50%" alt="temperature"> 
@@ -81,6 +82,11 @@
    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+ <script>
+  function myFunction() {
+      location.href = "temperature.html";
+  }
+  </script>
 </body> 
 </html>
 

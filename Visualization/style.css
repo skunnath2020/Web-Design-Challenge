@@ -13,7 +13,6 @@ a.navbar-brand{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color: #ffffff !important;
-   
 }
 
 .navbar{
@@ -36,6 +35,11 @@ h3{
     font-size: 30px;
     color: rgb(194, 11, 169) !important;
     font-weight: bold;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    
 }
 
 .nav-link, img-thumbnail,

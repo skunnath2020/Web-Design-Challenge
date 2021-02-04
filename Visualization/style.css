@@ -51,6 +51,10 @@ h6{
 .nav-link:hover {
      color: #000;
  }
+
+ .navbar-nav li a:hover {
+    background-color: #e6dfeb;
+ }
 .navbar-collapse {
      justify-content: flex-end;  
  }

@@ -61,6 +61,7 @@ h6{
     margin-right: 10%; 
     background-color:white;
     height : 100%;
+    width: 100%;
     flex-direction: column; 
     overflow: hidden;
  }

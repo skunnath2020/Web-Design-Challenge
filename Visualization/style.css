@@ -35,6 +35,7 @@ h3{
     font-size: 30px;
     color: rgb(194, 11, 169) !important;
     font-weight: bold;
+    padding-top :3%;
  }
 h6{
     font-family: 'Times New Roman', Times, serif;
@@ -86,3 +87,7 @@ h6{
     background:white;
 }
 
+@media(max-width: 995px){
+    .navbar-expand-lg{
+    background-color:rgb(219, 161, 212) !important;
+    }

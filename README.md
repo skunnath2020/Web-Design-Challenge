@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landing-large.png)
+![Images/landingResize.png]("./Images/landing-large.png")
 
 ### Before You Begin
 
@@ -30,7 +30,7 @@ For reference, see the ["Screenshots" section](#screenshots) below.
 
 The website must consist of 7 pages total, including:
 
-* A [landing page](Images/landing-large.png) containing:
+* A [landing page]("./Images/landing-large.png") containing:
   * An explanation of the project.
   * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 * Four [visualization pages](#visualization-pages), each with:

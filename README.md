@@ -99,7 +99,7 @@ Large screen:
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![comparison page small screen](Images/comparison-small.png)
 
 #### <a id="data-page"></a>Data page
 
@@ -130,8 +130,5 @@ Large screen:
 ![nav menu large screen](Images/navigation-large.PNG)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.PNG)
+![nav menu small screen](Images/navigation-small.PNG)
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.

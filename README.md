@@ -88,7 +88,7 @@ Large screen:
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.PNG)
+![Landing page small screen](Images/landing-small.PNG)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
@@ -105,12 +105,12 @@ Small screen:
 
 Large screen:
 
-![data page large screen](Images/data-lg.PNG)
+![data page large screen](Images/data-large.PNG)
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.PNG)
+![data page small screen](Images/data-small.PNG)
 
 #### <a id="visualization-pages"></a>Visualization pages
 

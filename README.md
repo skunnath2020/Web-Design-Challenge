@@ -95,7 +95,7 @@ Small screen:
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.PNG)
+![comparison page large screen](Images/comparison-large.PNG)
 
 Small screen:
 
@@ -127,7 +127,7 @@ Small screen:
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.PNG)
+![nav menu large screen](Images/navigation-large.PNG)
 
 Small screen:
 ![nav menu small screen](Images/nav-sm.PNG)

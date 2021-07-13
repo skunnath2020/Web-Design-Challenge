@@ -54,10 +54,6 @@ This section contains screenshots of each page that must be built, at varying sc
 
 #### <a id="landing-page"></a>Landing page
 
-Large screen:<br>
-
-![Landing page large screen](Images/landingResize.PNG)
-
 Small screen:<br>
 
 ![Landing page small screen](Images/landing-small.PNG)
@@ -68,10 +64,6 @@ Small screen:<br>
 Large screen:
 
 ![comparison page large screen](Images/comparison-large.PNG)
-
-Small screen:
-
-![comparison page small screen](Images/comparison-small.PNG)
 
 #### <a id="data-page"></a>Data page
 
@@ -84,17 +76,6 @@ Small screen:<br>
 
 ![data page small screen](Images/data-small.PNG)
 
-#### <a id="visualization-pages"></a>Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one:
-
-Large screen:<br>
-
-![visualize page large screen](Images/visualize-lg.PNG)
-
-Small screen:<br>
-
-![visualize page small screen](Images/visualize-sm.PNG)
 
 #### <a id="navigation-menu"></a>Navigation menu
 

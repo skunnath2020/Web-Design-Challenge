@@ -71,7 +71,7 @@ Large screen:
 
 Small screen:
 
-![comparison page small screen](Images/comparison-small.png)
+![comparison page small screen](Images/comparison-small.PNG)
 
 #### <a id="data-page"></a>Data page
 
@@ -94,7 +94,7 @@ Large screen:<br>
 
 Small screen:<br>
 
-![visualize page small screen](Images/visualize-sm.png)
+![visualize page small screen](Images/visualize-sm.PNG)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
